@@ -1,0 +1,1 @@
+Given the dataset, This model will predict the category of an animal: dog or cat?
